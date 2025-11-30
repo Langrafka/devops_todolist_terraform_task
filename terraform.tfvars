@@ -1,4 +1,4 @@
-location            = "westeurope"
+location            = "uksouth"
 resource_group_name = "mate-azure-task-12"
 
 virtual_network_name        = "vnet"
